@@ -4,7 +4,7 @@ import Login from './components/Login';
 import Register from './components/Register';
 import FlightSearch from './components/FlightSearch';
 import FlightResults from './components/FlightResults';
-import UserProfile from './components/UserProfile';
+
 
 function App() {
   return (
@@ -15,7 +15,6 @@ function App() {
         <Route path="/register" element={<Register />} />
         <Route path="/search" element={<FlightSearch />} />
         <Route path="/results" element={<FlightResults />} />
-        <Route path="/profile" element={<UserProfile />} />
       </Routes>
     </Router>
   );
