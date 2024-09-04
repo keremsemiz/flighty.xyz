@@ -1,5 +1,8 @@
 # `flighty.xyz`
 
+![image](https://github.com/user-attachments/assets/947a28d8-1f0c-4ce7-96ac-ed724b451851)
+Live Demo: https://flightyks.netlify.app/search
+
 Welcome to **`flighty.xyz`**, your ultimate flight search and booking platform. 
 
 ## Features
